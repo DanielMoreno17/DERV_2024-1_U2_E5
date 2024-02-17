@@ -6,7 +6,7 @@ public class Movimiento : MonoBehaviour
 {
 
 
-
+    // nos ayuda a establecer la velocidad a la que se moverá el cubo
     [SerializeField] private float velociadad = 7;
 
     void Start()
